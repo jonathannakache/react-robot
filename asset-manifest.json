@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-robot/static/css/main.f76b2253.chunk.css",
-    "main.js": "/react-robot/static/js/main.3485f408.chunk.js",
-    "main.js.map": "/react-robot/static/js/main.3485f408.chunk.js.map",
+    "main.js": "/react-robot/static/js/main.d810bb6e.chunk.js",
+    "main.js.map": "/react-robot/static/js/main.d810bb6e.chunk.js.map",
     "runtime-main.js": "/react-robot/static/js/runtime-main.cc0556c6.js",
     "runtime-main.js.map": "/react-robot/static/js/runtime-main.cc0556c6.js.map",
     "static/css/2.299a5230.chunk.css": "/react-robot/static/css/2.299a5230.chunk.css",
     "static/js/2.6951289f.chunk.js": "/react-robot/static/js/2.6951289f.chunk.js",
     "static/js/2.6951289f.chunk.js.map": "/react-robot/static/js/2.6951289f.chunk.js.map",
     "index.html": "/react-robot/index.html",
-    "precache-manifest.a7c216c894205375cf0543ef17b177e1.js": "/react-robot/precache-manifest.a7c216c894205375cf0543ef17b177e1.js",
+    "precache-manifest.a37479ccb97ad4e7bb0b0588591b6d31.js": "/react-robot/precache-manifest.a37479ccb97ad4e7bb0b0588591b6d31.js",
     "service-worker.js": "/react-robot/service-worker.js",
     "static/css/2.299a5230.chunk.css.map": "/react-robot/static/css/2.299a5230.chunk.css.map",
     "static/css/main.f76b2253.chunk.css.map": "/react-robot/static/css/main.f76b2253.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.299a5230.chunk.css",
     "static/js/2.6951289f.chunk.js",
     "static/css/main.f76b2253.chunk.css",
-    "static/js/main.3485f408.chunk.js"
+    "static/js/main.d810bb6e.chunk.js"
   ]
 }
