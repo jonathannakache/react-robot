@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-robot/static/css/main.f76b2253.chunk.css",
+    "main.js": "/react-robot/static/js/main.693e56fc.chunk.js",
+    "main.js.map": "/react-robot/static/js/main.693e56fc.chunk.js.map",
+    "runtime-main.js": "/react-robot/static/js/runtime-main.cc0556c6.js",
+    "runtime-main.js.map": "/react-robot/static/js/runtime-main.cc0556c6.js.map",
+    "static/css/2.299a5230.chunk.css": "/react-robot/static/css/2.299a5230.chunk.css",
+    "static/js/2.ddc36304.chunk.js": "/react-robot/static/js/2.ddc36304.chunk.js",
+    "static/js/2.ddc36304.chunk.js.map": "/react-robot/static/js/2.ddc36304.chunk.js.map",
+    "index.html": "/react-robot/index.html",
+    "precache-manifest.75716687c5c93356f521dc567b75155d.js": "/react-robot/precache-manifest.75716687c5c93356f521dc567b75155d.js",
+    "service-worker.js": "/react-robot/service-worker.js",
+    "static/css/2.299a5230.chunk.css.map": "/react-robot/static/css/2.299a5230.chunk.css.map",
+    "static/css/main.f76b2253.chunk.css.map": "/react-robot/static/css/main.f76b2253.chunk.css.map",
+    "static/js/2.ddc36304.chunk.js.LICENSE.txt": "/react-robot/static/js/2.ddc36304.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc0556c6.js",
+    "static/css/2.299a5230.chunk.css",
+    "static/js/2.ddc36304.chunk.js",
+    "static/css/main.f76b2253.chunk.css",
+    "static/js/main.693e56fc.chunk.js"
+  ]
+}
