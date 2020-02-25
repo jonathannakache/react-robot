@@ -15,9 +15,13 @@ class App extends Component {
 	}
 
 	async componentDidMount() {
+		console.log('KO');
+		
 		const response = await fetch('https://jsonplaceholder.typicode.com/users')
 			const json = await response.json()
 			this.setState({ robots: json });
+		console.log('OK');
+
 	}
 
 	onSearchChange = (event) => {
@@ -25,6 +29,7 @@ class App extends Component {
 	};
 
 	render() {
+		
 		const filteredRobots = this.state.robots.filter((robot) => {
 			return robot.name.toLowerCase().includes(this.state.searchfield.toLowerCase());
 		});
